@@ -1,0 +1,10 @@
+1.what is node js ?
+links that can be used to learn 
+https://www.freecodecamp.org/news/what-is-node-js/
+https://www.guru99.com/node-js-express.html
+
+2.how is client different from server?
+3.what things are required to run node js code ?
+4.which language will we use js or ts ?
+5.what is express ?
+6.why we need express ?
